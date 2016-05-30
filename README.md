@@ -9,7 +9,7 @@ Shell type : bash shell
 
 
 ##GetDHCPClient.sh
-The GetDHCPClient.sh script can get DHCP client from your linux(if your linux have DHCP server).
+The GetDHCPClient.sh script can get DHCP client from your linux(if the linux have DHCP server).
 
 example:<br>
 ![demo image](/pic/dhcp_pic.jpg)
@@ -26,7 +26,7 @@ example:<br>
 
 
 ##iptables.sh
-This script can make linux becoming a simple router.
+This script can make linux becoming a simple router(if the linux have DHCP server).
 
 
 
