@@ -4,7 +4,7 @@
 
 Linux version : Ubuntu 12.04.5 LTS
 
-Shell type : bash shell
+Shell type : bash
 
 
 
